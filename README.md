@@ -36,4 +36,6 @@ This solution uses the following services:
 
 For more info: https://developers.google.com/apps-script/samples/automations/mail-merge
 
-https://developers.google.com/static/apps-script/samples/images/mail-merge.gif
+Working Demo:
+
+![](https://github.com/PeerSyedHussain/Gmail-Sheets-Mail-Merge/blob/master/mail-merge.gif)
