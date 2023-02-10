@@ -38,4 +38,4 @@ For more info: https://developers.google.com/apps-script/samples/automations/mai
 
 Working Demo:
 
-![](https://github.com/PeerSyedHussain/Gmail-Sheets-Mail-Merge/blob/master/mail-merge.gif)
+![](https://developers.google.com/static/apps-script/samples/images/mail-merge.gif)
